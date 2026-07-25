@@ -124,3 +124,9 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 *"Building software, solving problems, and continuously learning one project at a time."*
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brixskata/brixskata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
