@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Brix 👋
 
-<!--
-**brixskata/brixskata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology 
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about building web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- PHP
+- JavaScript
+- C#
+- C++
+- HTML
+- CSS
+
+### Frameworks
+- Laravel
+- Flutter
+- Bootstrap
+
+### Database
+- MySQL
+- MongoDB
+- NoSQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/marion-brix/
+- Email: brixquils16@gmail.com
