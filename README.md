@@ -1,15 +1,15 @@
 # Hi, I'm Marion Brix Quiling 👋
 
-🎓 **BS Information Technology Graduate**  
-💻 **Software Developer | Web & Mobile Application Developer**
+ **BS Information Technology Graduate**  
+**Software Developer | Web & Mobile Application Developer**
 
 I'm a passionate software developer who enjoys building modern web and mobile applications that solve real-world problems. I have hands-on experience in PHP, Laravel, Flutter, JavaScript, MySQL, REST APIs, and Microsoft Power Platform through internships and academic projects. I'm always eager to learn new technologies, improve my development skills, and build software that makes a difference.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
@@ -23,7 +23,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 ---
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
@@ -33,7 +33,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 ---
 
-### 🗄️ Databases
+### Databases
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
@@ -42,7 +42,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
@@ -62,9 +62,9 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 ---
 
-# 💼 Experience
+# Experience
 
-### 🏢 Software Development Intern
+### Software Development Intern
 **VPD Business Solutions Inc.**
 
 - Developed a cross-platform mobile application using Flutter integrated with Laravel REST APIs.
@@ -73,7 +73,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 ---
 
-### 🏢 Work Immersion
+### Work Immersion
 **Accenture**
 
 - Developed an employee attendance application using Microsoft Power Apps.
@@ -83,7 +83,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 ---
 
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Advanced Laravel Development
 - Flutter Best Practices
@@ -97,7 +97,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 
