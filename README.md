@@ -2,7 +2,7 @@
 
 🎓 BS Information Technology 
 
-💻 Aspiring Software Engineer passionate about building web and mobile applications.
+💻 Aspiring Software Developer passionate about building web and mobile applications.
 
 ### Languages
 - PHP
