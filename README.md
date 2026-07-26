@@ -1,6 +1,6 @@
 # Hi, I'm Marion Brix Quiling 👋
 
- **BS Information Technology Graduate**  
+ **BS Information Technology**  
 **Software Developer | Web & Mobile Application Developer**
 
 I'm a passionate software developer who enjoys building modern web and mobile applications that solve real-world problems. I have hands-on experience in PHP, Laravel, Flutter, JavaScript, MySQL, REST APIs, and Microsoft Power Platform through internships and academic projects. I'm always eager to learn new technologies, improve my development skills, and build software that makes a difference.
