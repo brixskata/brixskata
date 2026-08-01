@@ -113,9 +113,10 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 **Email:** brixquils16@gmail.com
 
+**Portfolio:**[ marionbrix.vercel.app](https://marionbrix.vercel.app/)
+
 **LinkedIn:** https://www.linkedin.com/in/marion-brix/
 
-**Portfolio:** marionbrix.vercel.app
 ---
 
 <div align="center">
