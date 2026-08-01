@@ -115,6 +115,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 
 **LinkedIn:** https://www.linkedin.com/in/marion-brix/
 
+**Portfolio:** marionbrix.vercel.app
 ---
 
 <div align="center">
