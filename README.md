@@ -92,6 +92,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ap
 - Software Architecture
 - CI/CD
 - Docker
+- AWS
 
 ---
 
