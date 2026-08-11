@@ -92,21 +92,9 @@ I'm a passionate software developer with hands-on experience building web and mo
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
-## Let's Connect
-
-I'm always open to learning, collaborating, and discussing interesting software projects.
-
-<div align="center">
-
-<a href="mailto:brixquils16@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/marion-brix/">LinkedIn</a> ·
-<a href="https://marionbrix.vercel.app/">Portfolio</a>
-
-<br /><br />
 
 ⭐ Thanks for visiting my profile!
 
-<br />
 
 <em>Building software, solving problems, and continuously learning one project at a time.</em>
 
