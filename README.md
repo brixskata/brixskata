@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Marion Brix Quilingg 👋
+# Hi, I'm Marion Brix Quiling 👋
 
 ### Software Developer · BS Information Technology
 
