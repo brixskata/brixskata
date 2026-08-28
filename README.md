@@ -100,7 +100,7 @@ I'm a passionate software developer with hands-on experience building web and mo
 </p>
 
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!!
 
 
 <em>"Building software, solving problems, and continuously learning one project at a time."</em>
