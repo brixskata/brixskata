@@ -1,108 +1,235 @@
 <div align="center">
 
-# Hiii , I'm Marion Brix Quiling 👋
+<!-- Animated Header -->
 
-### Software Developer · BS Information Technology
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Marion%20Brix%20Quiling&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20BS%20Information%20Technology&descAlignY=55&descSize=18"/>
 
-Building modern web and mobile applications that solve real-world problems.
+<!-- Typing Animation -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Marion+Brix+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Web+%26+Mobile+Application+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Solutions;Always+Learning.+Always+Building." alt="Typing SVG" />
+</a>
+
+<br/>
+
+### 👨‍💻 Building modern web and mobile applications that solve real-world problems.
+
+<br/>
+
+<a href="https://marionbrix.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-marionbrix.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/marion-brix/">
+  <img src="https://img.shields.io/badge/LinkedIn-Marion%20Brix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:brixquils16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-brixquils16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=marionbrix&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👋 About Me
+
+```javascript
+const marionBrix = {
+    role: "Software Developer",
+    degree: "BS Information Technology",
+    focus: ["Web Development", "Mobile Development", "REST APIs"],
+    enjoys: [
+        "Turning ideas into practical software",
+        "Solving real-world problems",
+        "Building user-friendly applications"
+    ],
+    currentlyLearning: ["Docker", "AWS"],
+    mindset: "Always learning, always building 🚀"
+};
+```
+
+I'm a passionate **Software Developer** with hands-on experience building **web and mobile applications** using PHP, Laravel, Flutter, JavaScript, MySQL, REST APIs, and Microsoft Power Platform.
+
+I enjoy transforming ideas into **practical, maintainable, and user-friendly software** while continuously improving my development skills through real-world projects.
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
 
 <p>
-  <a href="https://marionbrix.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-marionbrix.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/marion-brix/"><img src="https://img.shields.io/badge/LinkedIn-Marion%20Brix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:brixquils16@gmail.com"><img src="https://img.shields.io/badge/Email-brixquils16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,cs,cpp,html,css,dart&perline=8" alt="Programming Languages"/>
+</p>
+
+### ⚡ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,vue,react,nextjs,nodejs,bootstrap&perline=7" alt="Frameworks and Libraries"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" alt="Databases"/>
+  &nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws,vercel&perline=7" alt="Tools and Platforms"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Microsoft Power Platform"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## 🧩 Other Skills
 
-I'm a passionate software developer with hands-on experience building web and mobile applications using PHP, Laravel, Flutter, JavaScript, MySQL, REST APIs, and Microsoft Power Platform. I enjoy turning ideas into practical, user-friendly software and continuously improving my skills through real-world projects.
+<div align="center">
 
-## Tech Stack
+![REST API](https://img.shields.io/badge/REST_API_Development-111827?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-111827?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-111827?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-111827?style=for-the-badge)
 
-### Languages
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-111827?style=for-the-badge)
+![Version Control](https://img.shields.io/badge/Version_Control-111827?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Software_Documentation-111827?style=for-the-badge)
+![QA](https://img.shields.io/badge/Quality_Assurance-111827?style=for-the-badge)
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C Plus Plus" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-</p>
+</div>
 
-### Frameworks & Libraries
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### Databases, Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
-  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Microsoft Power Platform" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
-</p>
-
-### Other Skills
-
-`REST API Development` · `API Integration` · `Authentication` · `Role-Based Access Control (RBAC)` · `UI/UX Design` · `Version Control` · `Software Documentation` · `Quality Assurance`
-
-## Experience
+# 💼 Experience
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Software Development Intern</h3>
-      <p><strong>VPD Business Solutions Inc.</strong></p>
-      <ul>
-        <li>Built a cross-platform mobile application with Flutter and Laravel REST APIs.</li>
-        <li>Created ERDs, Process Flow Diagrams, and Data Flow Diagrams.</li>
-        <li>Developed reporting modules, history logs, and role-based access features.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Work Immersion</h3>
-      <p><strong>Accenture</strong></p>
-      <ul>
-        <li>Developed an employee attendance application using Microsoft Power Apps.</li>
-        <li>Automated attendance recording and reporting workflows.</li>
-        <li>Improved operational efficiency through workflow automation.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Development Intern
+
+**VPD Business Solutions Inc.**
+
+* 📱 Built a cross-platform mobile application using **Flutter**.
+* 🔗 Developed and integrated **Laravel REST APIs**.
+* 🗃️ Created **Entity Relationship Diagrams (ERDs)**.
+* 🔄 Created **Process Flow Diagrams** and **Data Flow Diagrams**.
+* 📊 Developed reporting modules and history logs.
+* 🔐 Implemented role-based access features.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Work Immersion
+
+**Accenture**
+
+* 📱 Developed an employee attendance application using **Microsoft Power Apps**.
+* ⚙️ Automated attendance recording workflows.
+* 📊 Automated attendance reporting processes.
+* 🚀 Improved operational efficiency through workflow automation.
+
+</td>
+</tr>
 </table>
 
-## Currently Learning
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
+# 🌱 Currently Learning
 
+<div align="center">
 
-⭐ Thanks for visiting my profile!!
+<img src="https://skillicons.dev/icons?i=docker,aws" alt="Currently Learning"/>
 
+<br/><br/>
 
-<em>"Building software, solving problems, and continuously learning one project at a time."</em>
+**Strengthening my development workflow and exploring cloud technologies.**
+
+</div>
+
+---
+
+# 📊 Developer Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marionbrix&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marionbrix&layout=compact&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marionbrix&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/marionbrix/marionbrix/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+> The contribution snake requires a GitHub Actions workflow in your profile repository before it will animate.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Have an idea, project, or opportunity?
+
+I'm always interested in **building useful software, learning new technologies, and collaborating on exciting projects.**
+
+<br/>
+
+<a href="https://marionbrix.vercel.app/">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marion-brix/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:brixquils16@gmail.com">
+  <img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
+<br/>
+
+*"Building software, solving problems, and continuously learning one project at a time."*
+
+<br/>
+
+<!-- Animated Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
