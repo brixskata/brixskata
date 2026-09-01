@@ -193,7 +193,7 @@ I develop practical and user-friendly web and mobile applications, with experien
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
