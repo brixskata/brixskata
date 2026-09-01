@@ -24,7 +24,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 ```javascript
 const marionBrix = {
@@ -58,7 +58,7 @@ I develop practical and user-friendly web and mobile applications, with experien
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -116,7 +116,7 @@ I develop practical and user-friendly web and mobile applications, with experien
 
 ---
 
-## 🧩 Other Skills
+##  Other Skills
 
 <div align="center">
 
@@ -142,14 +142,14 @@ I develop practical and user-friendly web and mobile applications, with experien
 
 ---
 
-## 💼 Experience
+##  Experience
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 💻 Software Development Intern
+### Software Development Intern
 
 **VPD Business Solutions Inc.**
 
@@ -163,7 +163,7 @@ I develop practical and user-friendly web and mobile applications, with experien
 
 <td width="50%" valign="top">
 
-### 🏢 Work Immersion
+###  Work Immersion
 
 **Accenture**
 
@@ -178,41 +178,9 @@ I develop practical and user-friendly web and mobile applications, with experien
 
 ---
 
-## 🌱 Currently Learning
+##  Developer Stats
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,aws" alt="Currently Learning"/>
-
-<br/><br/>
-
-**Docker · AWS · Cloud Development**
-
-</div>
-
----
-
-## 📊 Developer Stats
-
-<div align="center">
-
-<a href="https://github.com/brixskata">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=brixskata&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Brix's GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/brixskata">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brixskata&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Brix's Top Languages"
-  />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/brixskata">
   <img
