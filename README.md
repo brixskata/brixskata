@@ -193,9 +193,6 @@ I develop practical and user-friendly web and mobile applications, with experien
 
 ---
 
-
----
-
 ##  Connect With Me
 
 <div align="center">
