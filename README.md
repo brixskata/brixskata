@@ -42,7 +42,8 @@ const marionBrix = {
         "Laravel",
         "Flutter",
         "JavaScript",
-        "MySQL"
+        "MySQL",
+        "MongoDB"
     ],
 
     currentlyLearning: [
