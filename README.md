@@ -3,8 +3,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Marion%20Brix%20Quiling&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20BS%20Information%20Technology&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=650&lines=+%F0%9F%92%BB;Web+%26+Mobile+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Solutions;Always+Learning.+Always+Building." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=650&lines=Web+%26+Mobile+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Solutions;Always+Learning.+Always+Building." alt="Typing SVG"/>
 </a>
+
 
 <br/><br/>
 
