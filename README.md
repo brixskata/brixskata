@@ -52,7 +52,7 @@ const marionBrix = {
         "AWS"
     ],
 
-    mindset: "Always learning, always building 🚀"
+    mindset: "Always learning, always building "
 };
 ```
 
